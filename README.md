@@ -18,23 +18,23 @@ Secara garis besar, program ini akan mempermudah untuk melakukan penambahan bara
   6. Menggunakan library `datetime` untuk membuat id pelanggan.
 
 ## Alur Program/_Flowchart_
-![Flowchart](https://github.com/nublz7/superCashier/assets/134612964/3c4afd38-e691-4519-a4e5-f8479902c27a)
+![Flowchart](https://github.com/nublz7/SuperCashier/assets/134612964/2ae9768e-c055-44fa-bdd7-bfa43cec588e)
 
 ## _Test Case_
 ### Test 1
 Pada case pertama berikut, customer ingin membeli 2 Ayam Goreng seharga @20,000 dan 3 Pasta Gigi seharga @15,000
 
-![test1](https://github.com/nublz7/superCashier/assets/134612964/56f9ca01-bbda-480a-974c-cd801711a6cf)
+![test1](https://github.com/nublz7/SuperCashier/assets/134612964/cc990189-cbab-4cd1-b9a5-5603c8152322)
 
 ### Test 2
 Case 2 berikut ternyata customer salah membeli item Pasta Gigi, sehingga harus menghapus nama barang beserta jumlah dan harganya.
 
-![test2](https://github.com/nublz7/superCashier/assets/134612964/1ee3cfa8-b4a7-484c-bfb7-2196701443f4)
+![test2](https://github.com/nublz7/SuperCashier/assets/134612964/dc1d08bd-c7ad-418d-986e-3f5f6f14f439)
 
 ### Test 3
 Pada case ini, customer ingin menghapus semua barang belanjaan yang ada di keranjang.
 
-![test3](https://github.com/nublz7/superCashier/assets/134612964/2a29ed86-c0ab-40a9-a034-5aa631ffd059)
+![test3](https://github.com/nublz7/SuperCashier/assets/134612964/a00cf036-dcd6-4a3e-b319-faf274906ba3)
 
 ### Test 4
 Setelah menghapus semua belanjaan di keranjang, customer membeli lagi barang-barang berikut dan langsung ingin membayarnya ke kasir.
@@ -43,7 +43,7 @@ Setelah menghapus semua belanjaan di keranjang, customer membeli lagi barang-bar
   - 1 Mainan Mobil @200,000
   - 5 Mie Instan @3,000
 
-![test4](https://github.com/nublz7/superCashier/assets/134612964/54a7879e-d240-4624-99dc-0ce2adfc8574)
+![test4](https://github.com/nublz7/SuperCashier/assets/134612964/7683718c-aa95-426e-9e09-3441e0819d4f)
 
 ## Kesimpulan
 Program berikut masih sangat amat sederhana, sehingga masih banyak ruang untuk improvisasi, seperti:
